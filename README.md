@@ -1,12 +1,8 @@
-# Image Tiles Menu Animation
+# Featured Reels
 
 An animation featuring image tiles that transform into a full image when a menu item is clicked.
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/04/imagetilesmenuanimation.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=71727)
-
-[Demo](http://tympanus.net/Development/ImageTilesMenu/)
+[Demo](https://chrisrossharris.github.io/leap-reels/)
 
 
 ## Installation
@@ -15,16 +11,16 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Credits
 
-- Images generated with [Midjourney](https://midjourney.com/)
+- Code forked from generated with [Codrops](https://tympanus.net/codrops/?p=71727)
 
 ## Misc
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+Follow Leap Group Network: [Twitter](http://www.twitter.com/leapgroupnetwork), [Facebook](http://www.facebook.com/leapgroupnetwork), [GitHub](https://github.com/leapgroupnetwork), [Instagram](https://www.instagram.com/leapgroupnetwork/)
 
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+Made with :green_heart:  by [Leap Group Network](http://www.leapgroupnetwork.com)
 
 
 
